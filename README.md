@@ -1,2 +1,3 @@
 # CS534
-Course Assignment for CS534 Artifitial Intelligence
+Some code for Course Assignment in python
+This course is CS534 Artifitial Intelligence
